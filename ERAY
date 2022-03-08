@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h1 style="background-color: white;">:-)</h1>
+<p></p>
+
+
+
+
+
+<h1 style="background-color: pink;">Eray er fucking clapped</h1>
+
+<input type="checkbox" id="myCheck" onmouseover="myFunction()";
+
+<script>
+Klik her hvis du synes at Eray er clapped
+</script>
+
+<img src="https://yt3.ggpht.com/ytc/AKedOLRpR9Y_nT1rZSXUF_hM_vm1pUKGbcSMi5Mx4LyT=s88-c-k-c0x00ffffff-no-rj" alt="Her er Eray">
+</html>
+
+<html>
+<html>
+<head>
+    <title>Space Clicker</title>
+</head>
+
+<!DOCTYPE html>
+<html>
+<head>
+<script>
+     var clicks = 0;
+    function myFunction() {
+
+        clicks += 100;
+        document.getElementById("demo").innerHTML = clicks;
+
+
+    }
+</script>
+</head>
+<body>
+
+<p>Se hvor mange gange du kan klikke:)</p>
+
+<button onclick="myFunction()">Clapped</button>
+
+<p id="demo"></p>
+
+</body>
+</html>
+
+<a href="https://www.youtube.com/channel/UCIa1iWwXIfOkoE1scb0raKQ/featured">Se Eray's youtube kanal her!!!!</a>
